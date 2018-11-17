@@ -1,0 +1,14 @@
+C:\Users\Ivan\Source\Repos\MSA2018A2\MSA2018A2\bin\Debug\netcoreapp2.1\MSA2018A2.deps.json
+C:\Users\Ivan\Source\Repos\MSA2018A2\MSA2018A2\bin\Debug\netcoreapp2.1\MSA2018A2.runtimeconfig.json
+C:\Users\Ivan\Source\Repos\MSA2018A2\MSA2018A2\bin\Debug\netcoreapp2.1\MSA2018A2.runtimeconfig.dev.json
+C:\Users\Ivan\Source\Repos\MSA2018A2\MSA2018A2\bin\Debug\netcoreapp2.1\MSA2018A2.dll
+C:\Users\Ivan\Source\Repos\MSA2018A2\MSA2018A2\bin\Debug\netcoreapp2.1\MSA2018A2.pdb
+C:\Users\Ivan\Source\Repos\MSA2018A2\MSA2018A2\obj\Debug\netcoreapp2.1\MSA2018A2.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Source\Repos\MSA2018A2\MSA2018A2\obj\Debug\netcoreapp2.1\MSA2018A2.RazorAssemblyInfo.cache
+C:\Users\Ivan\Source\Repos\MSA2018A2\MSA2018A2\obj\Debug\netcoreapp2.1\MSA2018A2.RazorAssemblyInfo.cs
+C:\Users\Ivan\Source\Repos\MSA2018A2\MSA2018A2\obj\Debug\netcoreapp2.1\MSA2018A2.AssemblyInfoInputs.cache
+C:\Users\Ivan\Source\Repos\MSA2018A2\MSA2018A2\obj\Debug\netcoreapp2.1\MSA2018A2.AssemblyInfo.cs
+C:\Users\Ivan\Source\Repos\MSA2018A2\MSA2018A2\obj\Debug\netcoreapp2.1\MSA2018A2.RazorTargetAssemblyInfo.cache
+C:\Users\Ivan\Source\Repos\MSA2018A2\MSA2018A2\obj\Debug\netcoreapp2.1\MSA2018A2.dll
+C:\Users\Ivan\Source\Repos\MSA2018A2\MSA2018A2\obj\Debug\netcoreapp2.1\MSA2018A2.pdb
+C:\Users\Ivan\Source\Repos\MSA2018A2\MSA2018A2\obj\Debug\netcoreapp2.1\MSA2018A2.csprojAssemblyReference.cache
